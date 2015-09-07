@@ -5,4 +5,4 @@ WebFont.load
   custom:
     families: ['game-font']
     urls: ['/css/fonts.css']
-  loading: game.init
+  loading: game.bootstrap
